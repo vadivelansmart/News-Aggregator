@@ -10,7 +10,7 @@ Contributing
 License
 
 Installation
-1.Clone the repository : git clone https://github.com/vadivelansmart/News-Aggregator.git
+1.Clone the repository : git clone https://github.com/vadivelansmart/News-Aggregator.git    
 2.Navigate to the project directory: cd News-Aggregator
 3.Install dependencies using npm install.
 
