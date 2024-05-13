@@ -1,4 +1,4 @@
-These API allows you to manage tasks with functionalities like creating, updating, deleting, filter, sort and retrieving tasks .
+These API allows you to fetch news with functionality like registering user , login, adding preferences, and fetching news with user preferences
 
 Table of Contents
 
